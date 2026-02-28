@@ -1,0 +1,9 @@
+export { default as Dashboard } from './Dashboard';
+export { default as ChatInterface } from './ChatInterface';
+export { default as Forecasts } from './Forecasts';
+export { default as Recommendations } from './Recommendations';
+export { default as PurchaseOrders } from './PurchaseOrders';
+export { default as TrendAnalysis } from './TrendAnalysis';
+export { default as DocumentProcessing } from './DocumentProcessing';
+export { default as Analytics } from './Analytics';
+export { default as Configuration } from './Configuration';
